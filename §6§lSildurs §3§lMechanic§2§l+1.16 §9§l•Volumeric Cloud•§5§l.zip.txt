@@ -1,0 +1,10 @@
+#Mon Dec 13 02:24:26 GMT 2021
+Bloom=false
+Brightness=1.2
+ChromaticAberration=false
+DOF=false
+gl_texture2DB=1.1
+gl_texture2DG=1.2
+gl_texture2DR=1.5
+ReflectionDistance=30
+WATER_TRANSPARENCY=0.10
